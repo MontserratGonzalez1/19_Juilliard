@@ -1,0 +1,58 @@
+ul { padding: 2%;
+	  list-style: none; }
+
+.menu ul li {margin-right: 10px;
+			display: inline;
+			margin-left: 50px;}
+
+h3 { position: relative;
+	 top: 80px;
+	 left: 650px; }
+
+.fondo { background-image: url("../img/textura_1.jpg");
+		 height: 1100px;}
+
+		/*cuadros grises fondo*/
+.f-gris { background-color: #BDBDBD;
+		  height: 250px;
+		  width: 970px;
+	   	  padding-right: 50px;}
+
+
+.foto { width: 280px;
+		height: 250px; }
+
+.text { margin-top: 70px; }
+.bottom {margin-bottom: 5px;}
+
+		/*POSICION DE CUADROS*/
+.left { margin-left: 200px;}
+.top { margin-top: 120px; }
+.espacio { margin-top: 50px; }
+
+		/*BOTON*/
+.bo-azul { height:45px;
+		   width: 220px;
+		   background-color: #210B61;
+		   margin-top: 15px;
+		   padding-left: 80px;
+		   padding-top: 13px;}
+
+			/*ZAPATILLAS*/
+.fondozap { background-image: url("../img/shoes_!.jpg"); 
+			background-repeat: no-repeat;
+			background-size: 60% 110%;
+			height: 500px;
+			padding-left: 200px;}
+		
+
+
+.enviar { height:70px;
+		   width: 470px;
+		   background-color: #210B61;
+		   color: white;}
+		
+.pie { background-color:#210B61;
+	   height: 60px;  }
+.text-pie { margin-left: 40px;
+			margin-top: 20px; }

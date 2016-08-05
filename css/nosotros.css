@@ -1,0 +1,70 @@
+ul { padding: 2%;
+	  list-style: none; }
+
+.menu ul li {margin-right: 10px;
+			display: inline;
+			margin-left: 50px;}
+
+.bac-danza {background-image: url("../img/dance_7.jpg");
+			height: 450px;
+			background-size: cover;}
+
+	/*cuadro*/
+.cua { width: 550px;
+	   height: 200px;
+	   opacity: 0.4;
+	   background-color:black;
+	   position: relative;
+	   top: 100px;
+	   left: 400px;
+	   padding-top: 60px;
+	   padding-left: 40px;
+	   padding-right: 40px; }
+
+	/* SECC GRIS*/
+
+.f-gris { background-image: url("../img/cubes.png");
+		  height: 300px;
+		  max-width: 98% }
+
+.centra1 { margin-top: 20px;
+		  position: relative;
+		  right: 100px;
+		  padding-left: 18%; }
+
+hr {margin-bottom: 15px;
+	margin-top: 15px;}
+
+	/*SECCION FOTOS*/
+#foto {height: 200px;
+	   width: 250px; }
+
+.centra { margin-top: 100px;
+		  padding-left: 15%;
+		  position: relative;
+		  right: 70px; }
+
+		/*ZAPATILLAS*/
+.fondozap { background-image: url("../img/shoes_!.jpg"); 
+			background-repeat: no-repeat;
+			background-size: 60% 110%;
+			height: 500px;
+			padding-left: 200px;}
+		
+
+
+.enviar { height:70px;
+		   width: 470px;
+		   background-color: #210B61;
+		   color: white;}
+		
+.pie { background-color:#210B61;
+	   height: 60px;  }
+.text-pie { margin-left: 40px;
+			margin-top: 20px; }
+
+
+.fa-2em { font-size: 2em; }
+.fa-3em { font-size: 3em; }
+.ma-50 { margin-top: 50px; }
+.ma-b70 { margin-bottom: 70px; }

@@ -1,0 +1,102 @@
+ul { padding: 2%;
+	  list-style: none; }
+
+.menu ul li {margin-right: 10px;
+			display: inline;
+			margin-left: 50px;}
+h3 { position: relative;
+	 top: 100px;
+	 left: 600px; }
+
+h1 { margin-bottom: 30px;
+	 color:#210B61;
+	 font-size: 2em; }
+
+.fondo { background-image: url("../img/old_wall.png");
+		 height: 1050px;}
+
+
+	/*BAILARINAS */
+
+#foto { width: 300px;
+		height: 400px; }
+
+.b1 { background-image: url("../img/dance_12.jpg");
+	  background-size: 100% 100%;
+	  width: 300px;
+	  height: 400px;
+	  margin-top: 130px; }
+
+
+.b2 { background-image: url("../img/breakdance.jpg");
+	  background-size: 100% 100%;
+	  width: 300px;
+	  height: 400px;
+	  margin-top: 130px; }
+
+.b3 { background-image: url("../img/lirical-jazz.jpg");
+	  background-size: 100% 100%;
+	  width: 300px;
+	  height: 400px;
+	  margin-top: 130px; }
+
+.b4 { background-image: url("../img/arabe.jpg");
+	  background-size: 100% 100%;
+	  width: 300px;
+	  height: 400px;
+	  margin-top: 30px; }
+
+.b5 { background-image: url("../img/little.jpg");
+	  background-size: 100% 100%;
+	  width: 300px;
+	  height: 400px;
+	  margin-top: 30px; }
+
+.b6 { background-image: url("../img/yoga.jpg");
+	  background-size: 100% 100%;
+	  width: 300px;
+	  height: 400px;
+	  margin-top: 30px; }
+
+.centra2 { padding-right: 160px;
+		   padding-left: 200px; }
+
+	/*cuadro*/
+.cua { width: 250px;
+	   height: 100px;
+	   opacity: 0.4;
+	   background-color:black;
+	   position: relative;
+	   top: 160px;
+	   left: 25px;
+	   padding-top: 20px;
+	   padding-left: 10px;
+	   padding-right: 10px;
+	   color: white; }
+.espacio { margin-bottom: 10px; }
+
+
+	
+		/*ZAPATILLAS*/
+.fondozap { background-image: url("../img/shoes_!.jpg"); 
+			background-repeat: no-repeat;
+			background-size: contain;
+			width: 210%;
+			height: 500px;
+			position: relative;
+			left: 500px;}
+
+.formulario { position: relative;
+			  right: 250px; }		
+
+
+.enviar { height:70px;
+		   width: 470px;
+		   background-color: #210B61;
+		   color: white;}
+		
+.pie { background-color:#210B61;
+	   height: 60px;  }
+.text-pie { margin-left: 40px;
+			margin-top: 20px; }
+
